@@ -1,0 +1,42 @@
+{"obras": [
+  {
+    "titulo": "Mona Lisa",
+    "categoria": "Pintura",
+    "especie": "Óleo em tela",
+    "artista": "Leonardo da Vinci",
+    "ano": 1506,
+    "url_imagem": "imgs/monalisa.jpg"
+  },
+  {
+    "titulo": "Siberian Symphony",
+    "categoria": "Performance",
+    "especie": "Registro fotográfico de performance",
+    "artista": "Joseph Beuys",
+    "ano": 1963,
+    "url_imagem": "imgs/siberian_symphony.jpg"
+  },
+  {
+    "titulo": "Surrounded Islands",
+    "categoria": "Instalação",
+    "especie": "Intervenção/Site-specific",
+    "artista": "Christo e Jeanne-Claude",
+    "ano": 1983,
+    "url_imagem": "imgs/surrounded_islands.jpg"
+  },
+  {
+    "titulo": "Finger Pointing",
+    "categoria": "Artes gráficas",
+    "especie": "Litografia/Fotocópia",
+    "artista": "Roy Lichtenstein",
+    "ano": 1973,
+    "url_imagem": "imgs/finger_pointing.jpg"
+  },
+  {
+    "titulo": "Homme qui marche I/Walking Man I",
+    "categoria": "Escultura",
+    "especie": "Bronze",
+    "artista": "Alberto Giacometti",
+    "ano": 1960,
+    "url_imagem": "imgs/walking_man_1.jpg"
+  }
+]}

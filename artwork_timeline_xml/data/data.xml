@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<obras>
+	<obra>
+    	<titulo>Mona Lisa</titulo>
+    	<categoria>Pintura</categoria>
+    	<especie>Óleo em tela</especie>
+    	<artista>Leonardo da Vinci</artista>
+    	<ano>1506</ano>
+    	<valor>750000000</valor>
+    	<url_imagem>imgs/monalisa.jpg</url_imagem>
+  	</obra>
+  	<obra>
+    	<titulo>Siberian Symphony</titulo>
+    	<categoria>Performance</categoria>
+    	<especie>Registro fotográfico de performance</especie>
+    	<artista>Joseph Beuys</artista>
+    	<ano>1963</ano>
+    	<valor>2300000</valor>
+    	<url_imagem>imgs/siberian_symphony.jpg</url_imagem>
+  	</obra>
+  	<obra>
+    	<titulo>Surrounded Islands</titulo>
+    	<categoria>Instalação</categoria>
+    	<especie>Intervenção/Site-specific</especie>
+    	<artista>Christo e Jeanne-Claude</artista>
+    	<ano>1983</ano>
+    	<valor>7450000</valor>
+    	<url_imagem>imgs/surrounded_islands.jpg</url_imagem>
+  	</obra>
+  	<obra>
+    	<titulo>Finger Pointing</titulo>
+    	<categoria>Artes gráficas</categoria>
+    	<especie>Litografia/Fotocópia</especie>
+    	<artista>Roy Lichtenstein</artista>
+    	<ano>1973</ano>
+    	<valor>1470000</valor>
+    	<url_imagem>imgs/finger_pointing.jpg</url_imagem>
+  	</obra>
+  	<obra>
+    	<titulo>Homme qui marche I/Walking Man I</titulo>
+    	<categoria>Escultura</categoria>
+    	<especie>Bronze</especie>
+    	<artista>Alberto Giacometti</artista>
+    	<ano>1960</ano>
+    	<valor>80350000</valor>
+    	<url_imagem>imgs/walking_man_1.jpg</url_imagem>
+  	</obra>
+</obras>
